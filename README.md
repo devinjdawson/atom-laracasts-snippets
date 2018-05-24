@@ -9,7 +9,7 @@ To install the snippets in your Atom Editor, you will have to clone this repo in
 In your terminal:  
 ```
 cd ~/.atom/packages/
-git clone https://github.com/devinjdawson/snippets.git
+git clone https://github.com/devinjdawson/atom-laracasts-snippets.git
 cd snippets
 apm install
 apm link .

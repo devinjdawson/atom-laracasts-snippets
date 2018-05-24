@@ -1,4 +1,0 @@
-".source.html.php":
-	rpost:
-		prefix: "rpost"
-		body: "Route::post('/${1:[URL]}', '${2:[CONTROLLERNAME]}Controller@${3:[METHODNAME]}');$0"
