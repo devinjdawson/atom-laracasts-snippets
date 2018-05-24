@@ -2,7 +2,7 @@
   ".source.html.php": {
     "gua": {
       "prefix": "gua",
-      "body": "protected \\$guarded = ['${1:FIELD}'];$0"
+      "body": "protected \\$guarded = ['${1:FIELD}'];"
     }
   }
 }
