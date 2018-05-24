@@ -5,7 +5,7 @@
   "description": "Add Laravel Snippets used in Laracasts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/devinjdason/atom-laracasts-snippets"
+    "url": "https://github.com/devinjdawson/atom-laracasts-snippets"
   },
   "license": "MIT",
   "engines": {
