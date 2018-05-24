@@ -1,6 +1,6 @@
 {
   "name": "laracasts-snippets",
-  "version": "0.1",
+  "version": "0.1.0",
   "private": false,
   "description": "Add Laravel Snippets used in Laracasts",
   "repository": {
