@@ -1,0 +1,9 @@
+{
+  "scope": "source.html.php",
+  "completions": [
+    {
+      "contents": "die(var_dump(\\$${1:var}));",
+      "trigger": "dd"
+    }
+  ]
+}

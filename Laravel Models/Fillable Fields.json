@@ -1,0 +1,8 @@
+{
+  ".source.html.php": {
+    "fil": {
+      "prefix": "fil",
+      "body": "/**\n * @var array\n */\nprotected \\$fillable = ['${1:FIELD}'];$0"
+    }
+  }
+}

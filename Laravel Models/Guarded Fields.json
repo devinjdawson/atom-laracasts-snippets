@@ -1,0 +1,8 @@
+{
+  ".source.html.php": {
+    "gua": {
+      "prefix": "gua",
+      "body": "/**\n * @var array\n */\nprotected \\$guarded = ['${1:FIELD}'];$0"
+    }
+  }
+}
