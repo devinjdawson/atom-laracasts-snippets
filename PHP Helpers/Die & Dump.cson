@@ -1,0 +1,5 @@
+# Generated with Atomizr – https://atom.io/packages/atomizr
+".source.html.php":
+	dd:
+		prefix: "dd"
+		body: "die(var_dump(\\$${1:var}));$0"

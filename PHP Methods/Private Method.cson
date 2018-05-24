@@ -1,0 +1,10 @@
+# Generated with Atomizr – https://atom.io/packages/atomizr
+".source.html.php":
+	pmet:
+		prefix: "pmet"
+		body: '''
+			private function ${1:[METHOD_NAME]}(${2})
+			{
+				${3://}
+			}$0
+		'''

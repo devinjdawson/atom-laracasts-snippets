@@ -1,0 +1,5 @@
+# Generated with Atomizr – https://atom.io/packages/atomizr
+".source.html.php":
+	bla:
+		prefix: "bla"
+		body: "{{ \\$${1:var} }}$0"

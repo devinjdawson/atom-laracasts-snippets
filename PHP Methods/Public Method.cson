@@ -1,0 +1,10 @@
+# Generated with Atomizr – https://atom.io/packages/atomizr
+".source.html.php":
+	met:
+		prefix: "met"
+		body: '''
+			public function ${1:[METHOD_NAME]}(${2})
+			{
+				${3://}
+			}$0
+		'''

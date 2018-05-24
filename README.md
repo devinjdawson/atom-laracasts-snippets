@@ -1,6 +1,6 @@
 # Sublime Text - Snippets
-
-These are the snippets that I use in all of my installations of Sublime Text. Geared towards the person workin with Laravel and its environment.
+This project is orginally forked from vicgonvt/snippets.
+I beleive this is at least one set of the Laravel snippets that Jeffrey Way uses in Sublime Editor. These snippets have been converted with atomizr to use in Atom Text Editor.all of my installations of Sublime Text. Geared towards the person workin with Laravel and its environment.
 
 # Installation
 
@@ -13,7 +13,7 @@ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
 git clone git@github.com:vicgonvt/snippets.git
 ```
 
-This will create a directory called `snippets` which will contain all of the snippets. 
+This will create a directory called `snippets` which will contain all of the snippets.
 
 That's it! It's that easy.
 

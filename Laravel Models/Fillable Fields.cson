@@ -1,0 +1,10 @@
+# Generated with Atomizr – https://atom.io/packages/atomizr
+".source.html.php":
+	fil:
+		prefix: "fil"
+		body: '''
+			/**
+			 * @var array
+			 */
+			protected \\$fillable = ['${1:FIELD}'];$0
+		'''

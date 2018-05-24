@@ -1,0 +1,10 @@
+# Generated with Atomizr – https://atom.io/packages/atomizr
+".source.html.php":
+	prmet:
+		prefix: "prmet"
+		body: '''
+			protected function ${1:[METHOD_NAME]}(${2})
+			{
+				${3://}
+			}$0
+		'''
