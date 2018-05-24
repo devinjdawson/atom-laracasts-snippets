@@ -1,0 +1,9 @@
+".source.html.php":
+	fil:
+		prefix: "fil"
+		body: '''
+			/**
+			 * @var array
+			 */
+			protected \\$fillable = ['${1:FIELD}'];$0
+		'''

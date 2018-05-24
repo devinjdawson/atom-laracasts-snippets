@@ -1,0 +1,10 @@
+".source.html.php":
+	test:
+		prefix: "test"
+		body: '''
+			/** @test */
+			public function ${1:the_one_where}()
+			{
+			    ${2://}
+			}$0
+		'''

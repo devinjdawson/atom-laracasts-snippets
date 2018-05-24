@@ -1,0 +1,9 @@
+".source.html.php":
+	haso:
+		prefix: "haso"
+		body: '''
+			public function ${1:relationship}()
+			{
+			    return \\$this->hasOne(${2:${1/^(.+)$/(?1\\u$1:)/g}}::class);
+			}$0
+		'''

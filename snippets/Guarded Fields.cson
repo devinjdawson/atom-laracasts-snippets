@@ -1,0 +1,9 @@
+".source.html.php":
+	gua:
+		prefix: "gua"
+		body: '''
+			/**
+			 * @var array
+			 */
+			protected \\$guarded = ['${1:FIELD}'];$0
+		'''

@@ -1,0 +1,9 @@
+".source.html.php":
+	hasm:
+		prefix: "hasm"
+		body: '''
+			public function ${1:relationship}()
+			{
+			    return \\$this->hasMany(${2:${1/^(.+)$/(?1\\u$1:)/g}}::class${3:, '${4:field_name}'});
+			}$0
+		'''
