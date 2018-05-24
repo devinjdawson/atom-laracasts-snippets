@@ -1,8 +1,0 @@
-{
-  ".source.html.php": {
-    "fil": {
-      "prefix": "fil",
-      "body": "protected \\$fillable = ['${1:FIELD}'];"
-    }
-  }
-}

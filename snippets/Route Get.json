@@ -1,8 +1,0 @@
-{
-  ".source.html.php": {
-    "rget": {
-      "prefix": "rget",
-      "body": "Route::get('/${1:[URL]}', '${2:[CONTROLLERNAME]}Controller@${3:[METHODNAME]}');$0"
-    }
-  }
-}

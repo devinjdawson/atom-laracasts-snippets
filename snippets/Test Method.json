@@ -1,8 +1,0 @@
-{
-  ".source.html.php": {
-    "test": {
-      "prefix": "test",
-      "body": "public function ${1:the_one_where}()\n{\n    ${2://}\n}$0"
-    }
-  }
-}

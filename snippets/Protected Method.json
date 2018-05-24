@@ -1,8 +1,0 @@
-{
-  ".source.html.php": {
-    "prmet": {
-      "prefix": "prmet",
-      "body": "protected function ${1:[METHOD_NAME]}(${2})\n{\n\t${3://}\n}$0"
-    }
-  }
-}

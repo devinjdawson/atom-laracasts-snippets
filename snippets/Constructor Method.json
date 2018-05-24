@@ -1,8 +1,0 @@
-{
-  ".source.html.php": {
-    "cmet": {
-      "prefix": "cmet",
-      "body": "public function __construct(${1})\n{\n\t${2://}\n}$0"
-    }
-  }
-}

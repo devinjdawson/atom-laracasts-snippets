@@ -1,8 +1,0 @@
-{
-  ".source.html.php": {
-    "haso": {
-      "prefix": "haso",
-      "body": "public function ${1:relationship}()\n{\n    return \\$this->hasOne(${2:${1/^(.+)$/(?1\\u$1:)/g}}::class);\n}$0"
-    }
-  }
-}
