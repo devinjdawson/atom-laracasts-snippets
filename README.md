@@ -1,8 +1,8 @@
 # Sublime Text - Snippets
-This project is orginally forked from vicgonvt/snippets.
-I beleive this is at least one set of the Laravel snippets that Jeffrey Way uses in Sublime Editor. These snippets have been converted with atomizr to use in Atom Text Editor.all of my installations of Sublime Text. Geared towards the person workin with Laravel and its environment.
+This project is originally forked from vicgonvt/snippets.  
+I believe this is at least one set of the Laravel snippets that Jeffrey Way uses in his Sublime Editor for Laracasts. These snippets have been converted with the Atomizr plugin to use in Atom Text Editor. This tool is geared towards the person workin with Laravel and its environment or for people who are following along with Jeffrey Way's Laracasts and want to work more efficiently.
 
-# Installation
+# Installation (Deprecated)
 
 To install the snippets in your sublime, you will have to clone this repo into your own computer(s).
 
