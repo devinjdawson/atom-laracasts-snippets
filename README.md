@@ -3,15 +3,16 @@ This project is originally forked from vicgonvt/snippets.
 
 This is at least one set of the Laravel snippets that Jeffrey Way uses in his Sublime Editor for Laracasts. These snippets have been converted with the Atomizr plugin to use in Atom Text Editor. This tool is geared towards any person working with Laravel and its environment, or for anyone who is following along with Jeffrey Way's Laracasts and would like to work more efficiently.
 
-# Installation (Deprecated)
+# Installation  
+To install the snippets in your Atom Editor, you will have to clone this repo into your own computer(s).  
 
-To install the snippets in your sublime, you will have to clone this repo into your own computer(s).
-
-In your terminal, run the following command
-
-```sh
-cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
-git clone git@github.com:vicgonvt/snippets.git
+In your terminal:  
+```
+cd ~/.atom/packages/
+git clone git@github.com:devinjdawson/snippets.git
+cd snippets
+apm install
+apm link .
 ```
 
 This will create a directory called `snippets` which will contain all of the snippets.
